@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="0c39a54e-b304-4dd5-b39c-882919370449" extendedConfigurationObject="cffbf533-11c6-4206-9b8b-f7355cb63fd8">
+  <producedTypes>
+    <objectType typeId="d7743d55-5268-4e93-943b-8ed50ec02b57" valueTypeId="680b1062-9491-4555-ad71-d4a2572b4460"/>
+    <refType typeId="35c6a86b-ae73-4629-aacb-a9c6f3b017bb" valueTypeId="cf25e6ba-7d21-4872-89b6-84a308e5f556"/>
+    <selectionType typeId="cbd9d75b-3d5f-4fab-8294-4cbfcde6d92f" valueTypeId="0c12fcfc-a397-444d-8ca1-8bd89c759a33"/>
+    <listType typeId="5af4ff07-cbd7-4fac-85cb-22e5cfefb286" valueTypeId="874584cd-0289-4aed-8cec-dd6d6d6855c4"/>
+    <managerType typeId="6a42dfac-4653-4b22-8015-4eb3a65a4da5" valueTypeId="a786622f-b8f4-490b-aa36-37c9e99c9237"/>
+  </producedTypes>
+  <name>Пользователи</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <forms uuid="565a54c2-577e-4d06-8ef5-07563bece7e7" extendedConfigurationObject="b94c591b-1338-4c18-9ecd-b606dfe79c07">
+    <name>CRM_ФормаЭлемента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Catalog>

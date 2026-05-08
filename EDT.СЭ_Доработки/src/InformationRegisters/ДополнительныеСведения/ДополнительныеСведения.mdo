@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="72aca221-6ca0-4a76-8bfb-ee1a000fc6fd" extendedConfigurationObject="3ad5d8a7-3071-46aa-aebf-306bdb67983b">
+  <producedTypes>
+    <selectionType typeId="e2bb9b6c-160c-4942-88d3-26959632eeff" valueTypeId="5fe5ee44-d810-499c-b0f1-30e6f82fe467"/>
+    <listType typeId="2f8a7475-b383-4d3a-8938-bd8fabe4146e" valueTypeId="35a9e9ae-ab8e-40ca-af4b-beaf5968b305"/>
+    <managerType typeId="fa2591a1-49d3-4847-878b-ecf97b0acb4d" valueTypeId="a896f245-2eca-4689-a10c-8029cdbfa306"/>
+    <recordSetType typeId="64abee15-b6bb-4b64-85fb-5cb086b514dc" valueTypeId="436f9259-3f93-461f-90b3-9800cd257c30"/>
+    <recordKeyType typeId="963837da-97cd-4e6f-a3b6-c7098a76b706" valueTypeId="c21d613d-f6f7-4a6c-92c8-daea56cea725"/>
+    <recordType typeId="7e89a8ca-a88b-4176-9d60-f4567f30e84c" valueTypeId="cfc20b8f-38bb-4adb-a1d1-85af681cc08d"/>
+    <recordManagerType typeId="cc3e966a-b33d-4f6c-9e91-366183493645" valueTypeId="2313bd37-960f-483f-9ee2-ae30e2a0f612"/>
+  </producedTypes>
+  <name>ДополнительныеСведения</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:InformationRegisterExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <informationRegisterPeriodicity>Checked</informationRegisterPeriodicity>
+    <writeMode>Checked</writeMode>
+  </extension>
+  <dimensions uuid="b02440f3-43f7-4162-9081-a0159176dcf0" extendedConfigurationObject="cb954476-c551-4a06-9bcd-18d67ba47dc8">
+    <name>Объект</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Extended</state>
+          <type>DocumentRef.СЭ_ПланАттестацийСотрудников</type>
+        </types>
+        <types>
+          <state>Extended</state>
+          <type>CatalogRef.СЭ_СотрудникиЗУН</type>
+        </types>
+        <types>
+          <state>Extended</state>
+          <type>CatalogRef.СЭ_ПриложенияКДоговору</type>
+        </types>
+        <types>
+          <state>Extended</state>
+          <type>DocumentRef.СЭ_АттестацияСотрудников</type>
+        </types>
+        <types>
+          <state>Extended</state>
+          <type>CatalogRef.СЭ_ЗУН</type>
+        </types>
+        <types>
+          <state>Extended</state>
+          <type>CatalogRef.СЭ_ВидыРаботЗУН</type>
+        </types>
+        <types>
+          <state>Extended</state>
+          <type>DocumentRef.СЭ_ЗапланированноеДействие</type>
+        </types>
+        <types>
+          <state>Extended</state>
+          <type>DocumentRef.СЭ_ЗаявкаНаОбучениеЗУН</type>
+        </types>
+      </typeExtension>
+    </extension>
+  </dimensions>
+</mdclass:InformationRegister>

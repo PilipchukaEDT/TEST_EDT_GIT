@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="d93d1735-41e1-48b7-9d7f-f03ac7c6fced" extendedConfigurationObject="4fe01fe5-6b8f-49ee-97ff-0a7657cfb72a">
+  <producedTypes>
+    <refType typeId="6951bf11-9342-464d-8890-584535398584" valueTypeId="e1c6c37e-8d1b-42e9-b199-d9c4c08d2dc8"/>
+    <listType typeId="0ae5406d-471a-4d84-9ec9-96e23f4dfac0" valueTypeId="6a2fafb3-c1c2-402b-879c-32e0d6e81f22"/>
+    <managerType typeId="eb42eaba-13aa-4305-a507-d79e6587a90f" valueTypeId="bf20b2b6-c8bc-491f-8e9c-f213c2fb7ae0"/>
+  </producedTypes>
+  <name>CRM_ВидыМастераПроверкиКлиентскойБазы</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <enumValues uuid="d6a27a75-11b0-4977-bbdc-3fc76a48b5ea" extendedConfigurationObject="f1ebfd2d-6206-40bb-9fae-9b2eb2d11fb0">
+    <name>ЗаполнениеКонтактнойИнформации</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="b2c47f13-ebad-47fe-b5fd-8a6262d44ed9" extendedConfigurationObject="817e2384-6716-4589-ab08-8229ab278609">
+    <name>ЗаполнениеДополнительныхРеквизитов</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="e15594ad-08b5-4c3a-80fe-f02deee3ccd9" extendedConfigurationObject="2ea7ee6b-caad-4ff1-a696-fb8bd7dbde1f">
+    <name>ДублированиеКлиентов</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="5c937f92-5a71-40a7-b4bf-e02f64c89e63" extendedConfigurationObject="e56d37db-038d-4292-b6c5-4f84fb8f62d3">
+    <name>КонтрольПотенциалаКлиентов</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+</mdclass:Enum>

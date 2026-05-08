@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5fdc8047-582b-43f4-9914-fe328419bce9" extendedConfigurationObject="75c76383-5993-49f0-abd8-72d2ffced449">
+  <producedTypes>
+    <objectType typeId="f6ed9159-b079-4de5-9ee0-3a6562452899" valueTypeId="390d21d0-e481-4a46-a8e2-5a151ca3f5ee"/>
+    <refType typeId="e04ca537-ccc8-4676-8b43-5b4ca8d45bf4" valueTypeId="088ecee9-4ce2-4290-8d4c-62e2e2b7e72e"/>
+    <selectionType typeId="76402594-a700-48e6-b0b2-ace763c7b2b8" valueTypeId="bc6043aa-58b6-40a7-bfda-a5cd936a83d1"/>
+    <listType typeId="0612f93c-115f-4aa7-9e87-3c73cfb14dc3" valueTypeId="0fc59ed9-0cb7-4dcb-84dd-13e2e3e06a10"/>
+    <managerType typeId="ecf7acc8-8843-4032-b9a5-7a85369671be" valueTypeId="39074827-b92d-437c-9787-1a6cd28cf60a"/>
+  </producedTypes>
+  <name>CRM_СостоянияИнтересов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Catalog>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="8cbeb2c9-8235-4a35-9725-8858d824ab26" extendedConfigurationObject="81d498df-78c9-4851-918c-0a9daf513625">
+  <producedTypes>
+    <objectType typeId="fd1b9e0d-34b7-4ab5-a6ab-220fa1d55e2f" valueTypeId="f0446197-9b23-4491-ab39-d8c46fba3997"/>
+    <refType typeId="80046476-3273-4247-b48b-a4e74018fec8" valueTypeId="b6bd210a-3d29-4de1-832d-510cd8b6e327"/>
+    <selectionType typeId="3c89dd8a-04cb-4313-a3ce-7b6578ea21ea" valueTypeId="43d76887-9b0a-497f-814e-0e9b32fb4e57"/>
+    <listType typeId="9e5580a8-fa1c-4414-95d0-e12bae114f9f" valueTypeId="ef68aeba-45b2-4811-82c9-b05c719108a5"/>
+    <managerType typeId="5b209219-632a-49ae-a659-fcfa56b0de4b" valueTypeId="6d15035b-36bc-46b1-83a6-85221e79f4e7"/>
+  </producedTypes>
+  <name>СЭ_ЗаявкаНаОбучениеЗУНПрисоединенныеФайлы</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Catalog>

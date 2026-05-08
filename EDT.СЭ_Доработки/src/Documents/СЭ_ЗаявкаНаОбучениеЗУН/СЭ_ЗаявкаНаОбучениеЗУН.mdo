@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="e9437ea8-aa35-4934-99c7-f281917c9be9" extendedConfigurationObject="b9b40ed1-0aa9-4282-a0f1-1298ec3334d6">
+  <producedTypes>
+    <objectType typeId="da04512d-baf9-4e01-9f59-26e4bf343798" valueTypeId="081ff449-f99a-42c7-b909-2d5565eea02f"/>
+    <refType typeId="f648c973-627c-4d89-9f76-f85a6cd09775" valueTypeId="1794afa5-cf7c-41c8-8f05-b87edf45b416"/>
+    <selectionType typeId="304c9f1c-e255-4d23-afae-4a4c2eb7f8e9" valueTypeId="162b1dfd-b9e8-4865-8bbc-3294bd710255"/>
+    <listType typeId="c52386c4-6fd8-4a66-b74a-1b46188c2504" valueTypeId="eb80bc5a-4294-4bdd-91e6-76926c121d69"/>
+    <managerType typeId="b5ebe6cb-62e9-4716-9363-64d09ec0e33c" valueTypeId="fbd77135-56c6-4f80-b8c2-dbf8c6a79065"/>
+  </producedTypes>
+  <name>СЭ_ЗаявкаНаОбучениеЗУН</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Document>

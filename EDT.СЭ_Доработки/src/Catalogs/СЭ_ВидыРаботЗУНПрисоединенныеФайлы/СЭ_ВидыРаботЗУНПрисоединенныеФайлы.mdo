@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="790f8f66-19cd-413d-ad76-7f92dcc654fc" extendedConfigurationObject="56dee4a8-1ad8-4de7-b431-dbac3704594f">
+  <producedTypes>
+    <objectType typeId="609ac7b9-b2db-405d-84d4-2403fd80414b" valueTypeId="f2fc9887-0512-428c-ae11-f52c773905eb"/>
+    <refType typeId="221044cf-e2c0-4826-91a5-5eaf96d8c40e" valueTypeId="54430961-76a6-45a6-b07c-7582b1da2ce4"/>
+    <selectionType typeId="bd5fdd25-7d76-40f6-a4c1-256dac8f0564" valueTypeId="f447e484-efba-429c-89bb-d4771e394752"/>
+    <listType typeId="d068292d-5b97-4153-8d30-3ab525d6ead3" valueTypeId="8077abbb-d940-4503-bbb3-c1d8da40939c"/>
+    <managerType typeId="dfc178ce-4b81-4d2d-b067-5ad405ffc28f" valueTypeId="f5d2d404-56ee-4f08-acce-e22e0a61994f"/>
+  </producedTypes>
+  <name>СЭ_ВидыРаботЗУНПрисоединенныеФайлы</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Catalog>

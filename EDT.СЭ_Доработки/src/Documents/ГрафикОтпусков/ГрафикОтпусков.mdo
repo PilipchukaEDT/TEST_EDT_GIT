@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="2e6dd46d-f5be-42b8-b83a-560c9cbbd036" extendedConfigurationObject="c238ccb7-4b71-474f-8cd7-5ed433fc33ed">
+  <producedTypes>
+    <objectType typeId="2fd19938-ef8c-4dab-89c3-980329f10533" valueTypeId="311eea91-7806-4583-bc11-38b6930895f6"/>
+    <refType typeId="9512f2b5-1273-416d-8ce5-047aa5401c4d" valueTypeId="592f664e-a059-4d1f-b05e-5398d24cb709"/>
+    <selectionType typeId="8ddd4d37-0d16-4a5a-9485-f17f8526f715" valueTypeId="fc37c00e-62ff-4040-9a97-52a328c932b1"/>
+    <listType typeId="e66900c1-5ca0-4cbd-a3e1-288193cb7c6b" valueTypeId="6cddf4ee-cd36-4852-b9b8-231529bb997e"/>
+    <managerType typeId="97c71d37-1dbb-44ea-8512-e2141212b885" valueTypeId="25656ba5-603f-4d15-818e-a4ea45720e71"/>
+  </producedTypes>
+  <name>ГрафикОтпусков</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <objectModule>Extended</objectModule>
+    <managerModule>Extended</managerModule>
+  </extension>
+  <attributes uuid="75cce9ae-a3d9-4150-bf94-dd10df62b0bb" extendedConfigurationObject="5b34b71f-6c58-4c18-b7dc-823a317b9c87">
+    <name>СЭ_НеТиповойВариантПроведения</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>Boolean</type>
+        </types>
+      </typeExtension>
+    </extension>
+  </attributes>
+  <forms uuid="0babfefc-4505-4c21-8cc7-968f4e5771ff" extendedConfigurationObject="b719d7dc-bc17-42d1-b5ea-80e10c14b3c4">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+  <forms uuid="bef43831-2982-439e-8420-5998167549ff">
+    <name>СЭ_РасширеннаяИнформацияПоОтпускам</name>
+    <synonym>
+      <key>ru</key>
+      <value>Расширенная информация по отпускам</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Document>

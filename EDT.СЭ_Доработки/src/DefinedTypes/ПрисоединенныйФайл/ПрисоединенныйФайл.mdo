@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="f712da61-be73-42f7-9e1c-8cec97b6bbe9" extendedConfigurationObject="bef6081e-f377-41d6-83a1-b0e218a3fb46">
+  <producedTypes>
+    <containerType typeId="2382523d-759b-4cdb-b76b-99844ccadb47" valueTypeId="d118fb0b-07bd-4052-9aeb-1572dea40dec"/>
+  </producedTypes>
+  <name>ПрисоединенныйФайл</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DefinedTypeExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <typeExtension>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.СЭ_ВидыРаботЗУНПрисоединенныеФайлы</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.СЭ_ЗаявкаНаОбучениеЗУНПрисоединенныеФайлы</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.СЭ_ЗапланированноеДействиеПрисоединенныеФайлы</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.СЭ_ЗУНПрисоединенныеФайлы</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.СЭ_АттестацияСотрудниковПрисоединенныеФайлы</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.СЭ_ПриложенияКДоговоруПрисоединенныеФайлы</type>
+      </types>
+    </typeExtension>
+  </extension>
+</mdclass:DefinedType>

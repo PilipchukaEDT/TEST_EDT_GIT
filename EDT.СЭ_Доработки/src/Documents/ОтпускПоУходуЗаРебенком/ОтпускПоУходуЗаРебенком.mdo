@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="6e0c4094-fbb6-4019-aac0-90c1f6ac4ff4" extendedConfigurationObject="1497a778-0251-40d0-b76a-08505aeb0011">
+  <producedTypes>
+    <objectType typeId="6008e5b8-dc27-436c-8886-a7c630667fbf" valueTypeId="10f16d17-de85-4f74-99a6-afd7bdd68cfb"/>
+    <refType typeId="a825db86-e504-4d8d-acf4-52c02bf675d5" valueTypeId="b106648a-3873-4012-89bc-b43e312c3258"/>
+    <selectionType typeId="743e98bd-5a93-4100-918a-b0b33664ec5c" valueTypeId="f8a2a6af-6b4a-499f-8ec8-7bddc1655313"/>
+    <listType typeId="f0e4fad1-3c5d-453b-a489-56632cdb109f" valueTypeId="3b85668b-f961-49fc-9e18-407e2ad4f6ce"/>
+    <managerType typeId="69c9ebce-3e2f-416b-90f0-7ad52605f1f1" valueTypeId="4f72a390-db59-4d4a-b7ef-a930a95134f7"/>
+  </producedTypes>
+  <name>ОтпускПоУходуЗаРебенком</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <objectModule>Extended</objectModule>
+  </extension>
+  <forms uuid="df975183-00e4-4883-868a-6f7e86248617" extendedConfigurationObject="d14117d5-5eac-405b-8fc1-87909414f8e6">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>

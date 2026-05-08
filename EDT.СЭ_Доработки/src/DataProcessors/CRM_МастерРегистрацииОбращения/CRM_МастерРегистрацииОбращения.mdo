@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="8b16a0a5-b9db-4bc3-b195-c089a25eb037" extendedConfigurationObject="96355e81-3697-4379-8b31-0c9675a6ba0c">
+  <producedTypes>
+    <objectType typeId="d61378e6-df61-46f9-b5bf-0c76cea34ca6" valueTypeId="d2a99fab-4ac7-47b0-82f6-6170dde37b11"/>
+    <managerType typeId="45852d2a-c5b3-459e-a148-8597a43e4e1a" valueTypeId="f3e50bb0-ddf1-4619-88cf-841eb6801db6"/>
+  </producedTypes>
+  <name>CRM_МастерРегистрацииОбращения</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DataProcessorExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <forms uuid="a6679a11-4dbf-4ed3-95b0-da1348960cd1" extendedConfigurationObject="1f786141-fac3-495a-aec0-6ed3a2969c55">
+    <name>ФормаНовая</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:DataProcessor>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="88c4d2f4-7066-4a00-9ff9-372af4085848" extendedConfigurationObject="b365f954-7035-4e89-8d0f-f5d9557aec87">
+  <producedTypes>
+    <objectType typeId="3b513253-9715-4b3b-a3ce-42547f871846" valueTypeId="36665467-ea73-496a-9fe4-a9794214761c"/>
+    <refType typeId="c99d7c9e-68dd-499f-bb8c-171e99f2c409" valueTypeId="07629ac8-2545-40c1-845c-fd77d4a382b3"/>
+    <selectionType typeId="202c534f-6822-49cd-98c3-21560deeb00c" valueTypeId="7ec01025-4bdc-40a0-93f9-0cf2f3cda1c9"/>
+    <listType typeId="c1805dfa-7ee0-4604-adff-ccbb8e67d6dd" valueTypeId="c17b9381-e55f-4daa-a39b-b13c01a1e763"/>
+    <managerType typeId="75007b27-bf82-4d93-ab88-54e9f518d65d" valueTypeId="353e6ccb-85aa-4230-80e0-6d82811d6c61"/>
+  </producedTypes>
+  <name>ЗаявлениеНаПредоставлениеСтандартныхВычетовПоНДФЛ</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <forms uuid="b5fc7f89-948d-441e-ba61-716f1970e40b" extendedConfigurationObject="65f2fc56-05b6-444d-a4f1-a0e0fd207ea5">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>

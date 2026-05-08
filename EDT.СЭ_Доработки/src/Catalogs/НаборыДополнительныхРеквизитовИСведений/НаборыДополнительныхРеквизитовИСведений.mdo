@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="d0307a68-0450-40fa-9b2e-af73798b140a" extendedConfigurationObject="0a136ad9-22ad-4ba7-a31a-40a193b49d26">
+  <producedTypes>
+    <objectType typeId="b8881242-7f19-442e-a2d5-d0c28ae2cf1a" valueTypeId="96fdb9e2-71b7-4162-b31f-d12b987d82d7"/>
+    <refType typeId="af7ee713-1d9d-433b-88ce-cd42339b0c0a" valueTypeId="7fba4025-d1d5-44f1-b925-ed2ecb3fd588"/>
+    <selectionType typeId="817877cb-73fa-407c-8d92-20f9dd80ff5f" valueTypeId="cf063728-1a49-4c52-8f4b-1aa685449c62"/>
+    <listType typeId="c1dc86cf-f8f9-4e68-a1c2-cd67016a35d7" valueTypeId="759806d5-84d6-4372-a577-168a44e7f597"/>
+    <managerType typeId="b6e8859e-9979-4d9d-8f52-08bc2fa05b8d" valueTypeId="6109ba15-e1d1-4aee-b997-c3ec3d6571b7"/>
+  </producedTypes>
+  <name>НаборыДополнительныхРеквизитовИСведений</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <codeLength>Checked</codeLength>
+    <codeAllowedLength>Checked</codeAllowedLength>
+    <descriptionLength>Checked</descriptionLength>
+    <codeType>Checked</codeType>
+    <predefined>Extended</predefined>
+  </extension>
+  <descriptionLength>100</descriptionLength>
+  <codeType>String</codeType>
+  <predefined>
+    <items id="0ec25199-d69d-42c3-9bbb-7a5542b24da7">
+      <name>Документ_СЭ_АттестацияСотрудников</name>
+      <description>Документ (СЭ) Аттестация сотрудников</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+    <items id="21a7b231-60c0-43e8-908a-936cec8e62ac">
+      <name>Документ_СЭ_ЗапланированноеДействие</name>
+      <description>Документ (СЭ) Запланированное действие</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+    <items id="ea75d8a2-57dd-4821-9ff1-0f98d60d87bd">
+      <name>Документ_СЭ_ЗаявкаНаОбучениеЗУН</name>
+      <description>Документ (СЭ) Заявка на обучение ЗУН</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+    <items id="dd8e3fa6-687a-41e0-85ef-f8a5897f4902">
+      <name>Документ_СЭ_ПланАттестацийСотрудников</name>
+      <description>Документ (СЭ) План аттестаций сотрудников</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+    <items id="93ba64b0-6174-4f78-85be-e5c09a84c14a">
+      <name>Справочник_СЭ_ВидыРаботЗУН</name>
+      <description>Справочник (СЭ) Виды работ ЗУН</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+    <items id="3ea91790-f2c3-468f-8233-cd46e0f1ae67">
+      <name>Справочник_СЭ_ЗУН</name>
+      <description>Справочник (СЭ) ЗУН</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+    <items id="51019420-38ab-4644-9894-e8b25f38b8e0">
+      <name>Справочник_СЭ_ПриложенияКДоговору</name>
+      <description>Справочник (СЭ) Приложения к договору</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+    <items id="15649c4a-9eb2-4893-acbe-3c049204c38d">
+      <name>Справочник_СЭ_СотрудникиЗУН</name>
+      <description>Справочник (СЭ) Сотрудники ЗУН</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+  </predefined>
+</mdclass:Catalog>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="0429acc3-4082-4537-885b-4e532959ad5e" extendedConfigurationObject="de981528-d610-4a59-88b3-a729de844bed">
+  <producedTypes>
+    <objectType typeId="f7a0906a-4f3c-42b9-8858-e7ad81490e5f" valueTypeId="0364fbc2-60de-4723-b944-84f0e5aed02d"/>
+    <refType typeId="40bd9b59-12cb-425d-bff8-7ef22c03c89b" valueTypeId="74e59070-b127-4138-aa4b-89c3c8ce8807"/>
+    <selectionType typeId="443562d5-37d3-4b1e-a71e-3257a971c893" valueTypeId="c53d5d53-823d-4108-8c17-fcea8b6c189f"/>
+    <listType typeId="f677666b-6921-4bba-9b5c-8bfac1e592d8" valueTypeId="4be3da0a-7def-4075-9675-a24d84ca953d"/>
+    <managerType typeId="775e66a4-1e7b-4d23-a11c-89ca4fc9712b" valueTypeId="b8b75f3d-83cb-4d02-9460-0917e7ecde7e"/>
+  </producedTypes>
+  <name>СЭ_АттестацияСотрудников</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="8fed5a6b-75b5-4c63-a937-6c4a48bc5747" extendedConfigurationObject="9b0fca9f-2afa-4b6c-bc3c-2ef1dd21ae86">
+  <producedTypes>
+    <objectType typeId="ab8e4868-a3b2-4c6e-80d3-938bb0d631e6" valueTypeId="d67cb762-049f-450a-9188-752792c63350"/>
+    <refType typeId="7e90931d-3068-4211-bc5b-09b8f2ce438f" valueTypeId="af7eafef-a7e0-41de-a5a2-3e6ff2d3b49a"/>
+    <selectionType typeId="cf2d3109-7873-48f7-8a03-f0116e7ca168" valueTypeId="29e7a4de-8a89-41e5-8b33-f8a9568f14aa"/>
+    <listType typeId="ff6c84a9-c355-4960-8b6f-c1b573e284d5" valueTypeId="fafc88c1-9c45-4de7-a08f-265aec65375d"/>
+    <managerType typeId="e578b185-c25c-4248-933f-0b5bcd159abe" valueTypeId="e109806d-f17e-4a6d-869b-1753fae72263"/>
+  </producedTypes>
+  <name>РаботаВВыходныеИПраздничныеДни</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <objectModule>Extended</objectModule>
+  </extension>
+  <forms uuid="d1174eec-debb-4534-bd1d-557dc80b3b2f" extendedConfigurationObject="7a129691-50fd-49b0-9e29-39dadd5b7655">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>

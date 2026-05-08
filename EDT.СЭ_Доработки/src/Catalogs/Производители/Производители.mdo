@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="6e35c458-17a8-47af-9869-5926c9de9079" extendedConfigurationObject="369232c9-b721-40af-a244-f6588346f044">
+  <producedTypes>
+    <objectType typeId="bba203a2-1c0c-4eae-a563-f37dc5147eb4" valueTypeId="42e210ec-d6d9-4d1f-8315-9ff8892ebf34"/>
+    <refType typeId="48207b1d-cb69-4374-ab83-2f438aff3786" valueTypeId="10260d24-8614-4acc-9fa9-dcbfee2e2301"/>
+    <selectionType typeId="5d9059ed-6f42-4cf8-aa23-326a430404b3" valueTypeId="af23a411-7fac-47e2-9361-a629e7cec136"/>
+    <listType typeId="139c5058-5ac1-4f13-b13c-4ba870649f78" valueTypeId="e932378c-99b7-4568-ba13-38b458b6c44d"/>
+    <managerType typeId="c45044e6-2eb3-4f30-a87c-1f38be8e7342" valueTypeId="702ab1b4-250b-46eb-b0bd-4da19514bdca"/>
+  </producedTypes>
+  <name>Производители</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <defaultObjectForm>Extended</defaultObjectForm>
+  </extension>
+  <defaultObjectForm>Catalog.Производители.Form.СЭ_ФормаЭлемента</defaultObjectForm>
+  <attributes uuid="eefce635-88bd-4668-a1f1-d7e34174e20d" extendedConfigurationObject="1b4d954e-2616-40a2-ae25-5c2d5fb59cd6">
+    <name>СЭ_ОбластьЗУН</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>CatalogRef.СЭ_ОбластиЗУН</type>
+        </types>
+      </typeExtension>
+    </extension>
+  </attributes>
+  <forms uuid="3515156f-8c97-4bea-9d91-03f6f29b4a94">
+    <name>СЭ_ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>С э форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>

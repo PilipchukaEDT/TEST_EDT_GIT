@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="05ca8c52-d347-4f48-8483-e6e766820eb8" extendedConfigurationObject="fb00e272-939a-4237-b582-d8555068dad0">
+  <producedTypes>
+    <objectType typeId="d77c1059-08c1-430f-a4fa-bde251c23769" valueTypeId="eac426d6-0b49-42e9-8a91-860207709776"/>
+    <refType typeId="fa89fe18-5cff-4d30-bd7e-009e2321503b" valueTypeId="6774a79c-941c-4972-ba38-143961189b6e"/>
+    <selectionType typeId="12df199f-8a82-4952-a3c0-ce9aeb83be80" valueTypeId="1f9c09f2-9111-44ca-9848-eb413ae394b1"/>
+    <listType typeId="d1b972f2-3b84-49a5-ac4d-5726eef1af1d" valueTypeId="09c2d909-6fb6-46c5-a9fa-d33ae59c8825"/>
+    <managerType typeId="50120049-2f61-48e6-9f62-3fe340e34987" valueTypeId="a0946dd9-28da-49be-8868-8039e5bbbb80"/>
+  </producedTypes>
+  <name>ИзменениеГрафикаРаботыСписком</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <objectModule>Extended</objectModule>
+  </extension>
+  <forms uuid="806303b0-1d6a-465a-ab93-09016b492a2f" extendedConfigurationObject="208e981c-dd91-4e88-b843-45242eca4872">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="1d3bea1c-4006-4596-ace6-cf37785ad9d6" extendedConfigurationObject="83db1b00-e9e3-41da-8a59-47589dcfd618">
+  <producedTypes>
+    <containerType typeId="9103b791-ef71-4a48-9336-e763fd93dea6" valueTypeId="e49a3a8d-2f97-4856-b7a6-b090edb57a27"/>
+  </producedTypes>
+  <name>ВерсионируемыеДанные</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DefinedTypeExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <typeExtension>
+      <types>
+        <state>Extended</state>
+        <type>DocumentRef.СЭ_ПланАттестацийСотрудников</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.СЭ_СотрудникиЗУН</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.СЭ_ПриложенияКДоговору</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>DocumentRef.СЭ_АттестацияСотрудников</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.СЭ_ЗУН</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.СЭ_ВидыРаботЗУН</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>DocumentRef.СЭ_ЗапланированноеДействие</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>DocumentRef.СЭ_ЗаявкаНаОбучениеЗУН</type>
+      </types>
+      <types>
+        <state>Extended</state>
+        <type>CatalogRef.ХарактеристикиНоменклатуры</type>
+      </types>
+    </typeExtension>
+  </extension>
+</mdclass:DefinedType>

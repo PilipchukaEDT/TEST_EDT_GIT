@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="0650ce1b-028f-4dc2-8efc-9b7d83942ade" extendedConfigurationObject="56201e1d-a975-4335-bdcc-d942524b5870">
+  <producedTypes>
+    <refType typeId="cfa37e77-0d7e-4b1b-b699-e60995ddde6a" valueTypeId="c0fdaf37-a8ea-49c4-b895-c0181ef77051"/>
+    <listType typeId="4d9d1ca6-6b74-42c3-aa1f-620ee1a00009" valueTypeId="eaccd3b7-c0bc-4d65-8f4a-f31a9f59c037"/>
+    <managerType typeId="3991ce95-796b-4c8f-bb39-0e412b1affd1" valueTypeId="5e5d0b15-184f-471d-a2b3-f689faac05c6"/>
+  </producedTypes>
+  <name>ВариантыОтраженияНеотфактурованныхПоставокНУ</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <enumValues uuid="3a6dedbf-645d-47f4-bdcb-9e3b65640fed" extendedConfigurationObject="0c9cbae2-ba7f-4a57-a03f-111e4fff12cf">
+    <name>ОтражатьПриПоступлении</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="9881e837-fe33-4040-97d7-d9516956c323" extendedConfigurationObject="cf9cb7a7-9e2a-4412-867f-2e8a22e3e293">
+    <name>ОтражатьПриФактуровке</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+</mdclass:Enum>

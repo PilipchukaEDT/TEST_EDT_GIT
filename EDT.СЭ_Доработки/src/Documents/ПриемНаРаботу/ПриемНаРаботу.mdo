@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="555649c2-3b9f-4997-a54b-f7a5095a0d7d" extendedConfigurationObject="d6587a61-ed0e-40e0-9c89-c4b7a3946e7f">
+  <producedTypes>
+    <objectType typeId="c305a364-b1ca-461a-9973-3724be2bba36" valueTypeId="7b1be6ba-f79e-444a-8b25-f7f38beeca10"/>
+    <refType typeId="66c9f082-6214-4fef-9539-e3ad0a3eed4e" valueTypeId="592fdd8e-3a9f-4ce4-8f73-74b717276f38"/>
+    <selectionType typeId="45c21cec-019c-447b-8dd7-8656a931fe6a" valueTypeId="7395d98d-8e36-42b6-a6a8-97368e4f4a71"/>
+    <listType typeId="9690e00b-0e52-432e-b87b-3888e77d61e5" valueTypeId="cff7c004-d0c0-4fed-8550-0a478d7dbd67"/>
+    <managerType typeId="4ab82025-5927-4b88-83cb-69205904695b" valueTypeId="29eb5213-7203-4e38-b9a2-a9502377762d"/>
+  </producedTypes>
+  <name>ПриемНаРаботу</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <objectModule>Extended</objectModule>
+  </extension>
+  <attributes uuid="92a14200-a104-49b6-a4ca-1f717df2fd48" extendedConfigurationObject="7813eee6-564a-4588-891c-2588e56355d9">
+    <name>СрочныйДоговор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Срок действия до</value>
+    </synonym>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <synonym>Extended</synonym>
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>Boolean</type>
+        </types>
+      </typeExtension>
+    </extension>
+  </attributes>
+  <forms uuid="5a34d7c7-a5be-425e-80aa-9d6a57f3991c" extendedConfigurationObject="e537e15e-f1c7-4104-93c9-4a4d496339d1">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>

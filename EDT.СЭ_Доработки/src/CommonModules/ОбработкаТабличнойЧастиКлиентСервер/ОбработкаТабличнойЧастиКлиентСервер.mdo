@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="187d7e31-d92d-4e20-9fab-b069c747e2b7">
+  <name>ОбработкаТабличнойЧастиКлиентСервер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработка табличной части клиент сервер</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+</mdclass:CommonModule>
