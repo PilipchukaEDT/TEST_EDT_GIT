@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Role xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5c1e843d-f615-4b41-ae9a-ea1e4f685849" extendedConfigurationObject="14bfd219-6f90-4446-8427-2010899aa1bd">
-  <name>ИзменениеУчетаСертификатовНоменклатуры</name>
-  <objectBelonging>Adopted</objectBelonging>
-  <extension xsi:type="mdclassExtension:RoleExtension">
-    <extendedConfigurationObject>Checked</extendedConfigurationObject>
-    <rights>Extended</rights>
-  </extension>
-</mdclass:Role>

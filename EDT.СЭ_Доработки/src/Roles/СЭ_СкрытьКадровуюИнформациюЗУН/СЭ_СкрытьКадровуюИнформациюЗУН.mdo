@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Role xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5d18c621-bbc6-44e8-9677-256fa967e41d" extendedConfigurationObject="343c3ce0-6881-4f1f-b90a-cc52343f2d0c">
-  <name>СЭ_СкрытьКадровуюИнформациюЗУН</name>
-  <objectBelonging>Adopted</objectBelonging>
-  <extension xsi:type="mdclassExtension:RoleExtension">
-    <extendedConfigurationObject>Checked</extendedConfigurationObject>
-    <rights>Extended</rights>
-  </extension>
-</mdclass:Role>
